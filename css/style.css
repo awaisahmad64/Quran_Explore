@@ -96,7 +96,7 @@ align-items: center;
     height: 20px;
     position: absolute;
     left: -26px;
-    top: 0;
+    top: -2px;
 }
 .search-section{
     background-color: rgba(243, 243, 243, 1);
